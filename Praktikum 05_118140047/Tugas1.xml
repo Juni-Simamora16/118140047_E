@@ -1,0 +1,33 @@
+<?xml version=1?>
+<dataDiri>
+    <nama>
+        <awal>Juni Rianto</awal>
+        <akhir>Simamora</awal>
+    </nama>
+
+    <status>Mahasiswa</status>
+
+    <jenisKelamin>Perempuan</jenisKelamin>
+
+    <alamat>
+        <jalan>Jl.Hasan4</jalan>
+        <kecamatan>Way Huwi</kecamatan>
+        <kabupaten>Lampung Selatan</kabupaten>
+        <Provinsi>Lampung</Provinsi>
+    </alamat>
+
+    <orangTua>
+        <bapak>Paber Simamora</bapak>
+        <ibu>Lasmaida Purba</ibu>
+    </orangTua>
+    
+    <socialMedia>
+        <instagram>juni_simamora16</instagram>
+    </socialMedia>
+
+    <hobi>
+        <hobi1>Nyanyi</hobi1>
+        <hobi2>Menulis</hobi2>
+        
+    </hobi>
+</dataDiri>

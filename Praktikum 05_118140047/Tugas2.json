@@ -1,0 +1,28 @@
+{
+    "datadiri": {
+        "nama": {
+            "awal": "Juni Rianto",
+            "akhir": "Simamora"
+        },
+        "status": "Mahasiswa",
+        "jeniskelamin": "Laki-laki",
+        "alamat": {
+         
+            "Jalan"    : "Jl.Hasan 5",
+            "Kecamatan": "Way Huwi",
+            "Kabupaten": "Lampung Selatan",
+            "Provinsi" : "Lampung"
+        },
+        "orangtua": {
+            "bapak": "Paber Simamora",
+            "ibu"  : "Lasmaida Purba"
+        },
+        "sosialmedia"  : {
+            "instagram"   : "juni_simamora16"
+        },
+        "hobi": {
+            "hobi1": "Nanyi",
+            "hobi2": "Menulis"
+        }
+    }
+}
